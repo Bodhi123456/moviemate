@@ -2,7 +2,7 @@ import React, { useState, useEffect } from 'react'
 import Logo from '../assets/logo.png'
 
 export const Header = () => {
-const[theme, setTheme] = useState(JSON.parse(localStorage.getItem("theme")||"light"))
+const[theme, setTheme] = useState(JSON.parse(localStorage.getItem("theme")||"medium"))
 
 useEffect(()=>{
     localStorage.setItem("theme", JSON.stringify(theme))
