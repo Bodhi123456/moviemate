@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/moviemate12/static/css/main.fa386c20.css",
+    "main.js": "/moviemate12/static/js/main.35d87599.js",
+    "index.html": "/moviemate12/index.html",
+    "main.fa386c20.css.map": "/moviemate12/static/css/main.fa386c20.css.map",
+    "main.35d87599.js.map": "/moviemate12/static/js/main.35d87599.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fa386c20.css",
+    "static/js/main.35d87599.js"
+  ]
+}
