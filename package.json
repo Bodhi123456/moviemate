@@ -2,7 +2,7 @@
   "name": "moviesearch",
   "version": "0.1.0",
   "private": false,
-  "homepage": "https://Bodhi123456.github.io/moviemate12",
+  "homepage": "https://Bodhi123456.github.io",
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",
     "@testing-library/react": "^13.4.0",
